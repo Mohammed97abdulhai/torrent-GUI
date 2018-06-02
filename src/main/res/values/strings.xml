@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TorrentTesting</string>
+    <string name="title_activity_shared_torrent_testing">SharedTorrentTesting</string>
+</resources>
