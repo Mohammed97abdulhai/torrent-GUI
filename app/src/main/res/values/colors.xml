@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#e3f19710</color>
+    <color name="colorAccent">#ffab40</color>
+    <color name="addtorrent_background">#FF4500</color>
+    <color name="primary_material_dark">#ff5722</color>
+</resources>
